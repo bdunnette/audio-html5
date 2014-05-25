@@ -1,0 +1,10 @@
+{
+  "name": "audio-html5",
+  "description": "A simple HTML5 audio recorder and downloader",
+  "homepage": "https://github.com/ctrimm/audio-html5",
+  "author": "Cory Trimm <cory.trimm@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/ctrimm/audio-html5.git",
+  "packages": {
+  }
+}
